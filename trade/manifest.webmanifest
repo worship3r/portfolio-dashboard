@@ -1,0 +1,24 @@
+{
+  "id": "./",
+  "name": "거래 기록",
+  "short_name": "거래 기록",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f08c3a",
+  "theme_color": "#f9f9f7",
+  "icons": [
+    {
+      "src": "../icon-trade-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "../icon-trade-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
